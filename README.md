@@ -1,4 +1,4 @@
-# Webopack starter
+# Webpack starter
 
 ### development
 
